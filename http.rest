@@ -1,0 +1,11 @@
+GET http://localhost:3000
+
+###
+
+POST http://localhost:3000/add
+Content-Type: application/json
+
+{
+    "api-key": 'hack the mainframe!',
+    "id": 1001001
+}
