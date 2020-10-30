@@ -1,0 +1,23 @@
+{
+  "name": "side_projects",
+  "version": "1.0.0",
+  "description": "**this is where i'm going to work on my side projects, if you would like to help out send me an email [at] ezra[dot]hamptoniii[at]gmail.com**",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezrathedev/side_Projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezrathedev/side_Projects/issues"
+  },
+  "homepage": "https://github.com/ezrathedev/side_Projects#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
